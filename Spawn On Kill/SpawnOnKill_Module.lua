@@ -10,7 +10,7 @@
 --]]
 
 -- Requires the "Config" file.
-local config = require("Config")
+local config = require("SpawnOnKill_Config")
 
 -- Events
 local PLAYER_EVENT_ON_KILL_CREATURE = 7
